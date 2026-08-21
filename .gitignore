@@ -10,3 +10,16 @@ Thumbs.db
 # 编辑器
 .vscode/
 .idea/
+
+# 未发布文章（本地保留，不推送到GitHub）
+03-Python模块篇/
+04-前端开发篇/
+07-Django篇/
+08-JavaScript篇/
+
+# CSDN专属文件（本地保留，不推送到GitHub）
+csdn_articles.csv
+专栏目录索引.md
+专栏目录索引_CSDN版.md
+使用说明.md
+README_GitHub版.md
