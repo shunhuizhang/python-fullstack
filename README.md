@@ -307,17 +307,18 @@ MySQL从入门到精通，数据库核心技能全覆盖。从安装配置到SQL
   </tr>
   <tr>
     <td>
-      <img src="wechat-pay.png" alt="微信收款码" width="200" height="200" />
+      <img src="images/wechat-pay.jpg" alt="微信收款码" width="200" height="200" />
     </td>
     <td>
-      <img src="images/alipay.png" alt="支付宝收款码" width="200" height="200" />
+      <img src="images/alipay.jpg" alt="支付宝收款码" width="200" height="200" />
     </td>
   </tr>
 </table>
+
 ### 联系方式
 
 - CSDN专栏：[Python全栈入门到实战](https://blog.csdn.net/zsh_1314520/category_13108073.html)
-- GitHub：[your-username](https://github.com/your-username)
+- GitHub：[shunhuizhang](https://github.com/shunhuizhang)
 
 ---
 
