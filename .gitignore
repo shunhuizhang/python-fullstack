@@ -1,0 +1,12 @@
+# 临时文件
+*.py
+*.ps1
+*.tmp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
